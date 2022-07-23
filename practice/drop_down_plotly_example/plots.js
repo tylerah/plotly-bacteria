@@ -1,3 +1,4 @@
+// "init" is the funciton the renders the initial visualization
 function init() {
     data = [{
       x: [1, 2, 3, 4, 5],
